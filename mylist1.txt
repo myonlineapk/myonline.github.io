@@ -1,0 +1,20 @@
+[配置信息]
+官方主页=http://www.myonline.vip/
+快捷方式=魔域
+公告地址=http://www.myonline.vip/
+退弹地址=http://www.myonline.vip/
+主页网址=
+登陆器更新地址=
+补丁下载地址=http://ouding.coding.net/api/share/download/c142f28d-0890-4a2e-a43e-82a7622eb0a2
+;补丁下载地址=http://132.232.56.76:998/buding.zip
+补丁下载线程=5
+维护设置=0
+开始维护时间=20:00:00
+结束维护时间=20:05:00
+
+[魔域一区]
+小区显示名称=魔域一区
+游戏真实名称 =魔域
+游戏登陆IP =132.232.56.76:7001
+文字颜色 = $F7D849
+
